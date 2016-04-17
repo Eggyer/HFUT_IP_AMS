@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+*{
+	padding:0px;
+	margin:0px;
+}
+#fond_black1
+{
+	color: #FFF;
+	font-size:24px;;
+	font:"Comic Sans MS", cursive;
+}
+#fond_black
+{
+	color: #FFF;
+	font-size:15px;;
+	font:"Comic Sans MS", cursive;
+}
+#nav_bg_cl
+{
+	background-color:#000;
+	opacity:0.45;
+}
+#ul1 ul li a:hover
+{
+	color:#3F0;
+}
+#contain{
+	margin-top:2%;
+	margin-left:10%;
+	background-color:#000;
+}
+.btn-primary
+{
+	background-color:#000;
+	position:fixed;
+	left:10%;
+	top:40%;
+}
+#myModalLabel
+{
+	color:#FFF;
+}
